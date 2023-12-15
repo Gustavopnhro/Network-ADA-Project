@@ -42,4 +42,4 @@ Os roteadores precisam ter as rotas das redes em que estão dispostas, nesse cas
 OBS: O mesmo precisa ser feito nos dois roteadores para que eles consigam se comunicar tanto na ida quanto na volta.
 
 Imagem do projeto final:
-<src 
+<img src="./ada-project-packet-tracer.png">
